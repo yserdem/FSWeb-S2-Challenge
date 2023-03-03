@@ -175,7 +175,7 @@ function emojileriDonustur(argMessage, emojiler){
 	}
 	return argMessage;
 }
-
+console.log(emojileriDonustur("merhaba :P, :d", emojiler))
 
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
